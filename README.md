@@ -1,4 +1,4 @@
-# Image-Compressor
+# Color-Compressor
 Using Lloyd's procedure (k-means) for vector quantization to compress a photo by using fewer colors.
 
 The goal is to reduce the number of distinct colors required to represent a photo, thereby allowing the photgraph to be greatly compressed (in a lossy manner) in future developments. 
